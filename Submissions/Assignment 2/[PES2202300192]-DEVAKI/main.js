@@ -15,7 +15,7 @@ var http = require('http');
 var formidable = require('formidable');
 
 //importing js module 'htmlresponse'
-const htmlresp = require('./htmlresponse.js')
+const htmlresp = require('./index.js')
 //importing js module 'textanalyser'
 const analyser = require('./textanalyser.js');
 
